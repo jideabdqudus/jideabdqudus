@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Jide 👋
 
-<!--
-**jideabdqudus/jideabdqudus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./githubInfo-19.jpg">
+
+Software developer with a interesting knack for design, I build web & mobile apps that piques the interest of every user. Some technologies I enjoy working with are (ReactJS, JAMstack, Node and React Native). You can find me on [Instagram](https://instagram.com/theqoder) or just checkout  [www.abdulqudus.com](https://www.abdulqudus.com) to know more! 
+___
+
+- 💬 Check out my blog here abdulqudus.com/blog
+- 📫 Reach me on abdulqudus.com/contact
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github.com/jideabdqudus/jideabdqudus/blob/master/githubInfo-19.jpg">
